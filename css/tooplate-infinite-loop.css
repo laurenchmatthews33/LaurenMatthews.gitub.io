@@ -149,7 +149,7 @@ blockquote {
   background-image: url(../img/FullColor.jpg);
   background-repeat: no-repeat;
   height: 100vh;
-  min-height: 375px;
+  min-height: 200px;
   position: relative;
 }
 
