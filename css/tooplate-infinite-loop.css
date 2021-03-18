@@ -71,7 +71,7 @@ blockquote {
 .tm-btn-primary:hover,
 .tm-btn-primary:focus {
   color: white;
-  background-color: #38B;
+  background-color: rgb(223, 92, 194);
 }
 
 /* Navbar */
