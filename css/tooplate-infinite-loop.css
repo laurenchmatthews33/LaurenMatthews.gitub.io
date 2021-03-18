@@ -229,7 +229,7 @@ blockquote {
 .tm-down-arrow {
   	color: #FFF;
     cursor: pointer;
-    background: #357;
+    background:rgb(223, 92, 194);
     padding: 15px 40px;
     transition: all 0.3s ease;
 }
@@ -349,7 +349,7 @@ blockquote {
 .slick-dots li button:focus:before,
 .slick-dots li.slick-active button:before {
   opacity: 1;
-  color: #3ba0dd;
+  color: rgb(223, 92, 194);
 }
 
 .tm-testimonials-carousel .slick-dots li button:before {
@@ -374,7 +374,7 @@ blockquote {
   position: relative;
   float: left;
   overflow: hidden;
-  background: #3085a3;
+  background: rgb(223, 92, 194);
   text-align: center;
   cursor: pointer;
 }
@@ -465,7 +465,7 @@ figure.effect-honey figcaption::before {
   left: 0;
   width: 100%;
   height: 10px;
-  background: #38C;
+  background: rgb(223, 92, 194);
   content: "";
   -webkit-transform: translate3d(0, 10px, 0);
   transform: translate3d(0, 10px, 0);
@@ -605,7 +605,7 @@ figure.effect-honey:hover h2 i {
 
 .tm-footer-link:hover,
 .tm-footer-link:focus {
-  color: #38B;
+  color: rgb(223, 92, 194);
   text-decoration: none;
 }
 
