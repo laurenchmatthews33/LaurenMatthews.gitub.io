@@ -564,7 +564,7 @@ figure.effect-honey:hover h2 i {
 
 .tm-btn-submit:hover {
 	color: #fff;
-	background-color: #38B;
+	background-color: rgb(223, 92, 194);
 }
 
 ::placeholder {
