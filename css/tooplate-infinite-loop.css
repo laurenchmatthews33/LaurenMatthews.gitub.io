@@ -97,7 +97,7 @@ blockquote {
 
 .navbar-brand:hover,
 .tm-navbar.scroll .navbar-brand:hover {
-  color: #38B;
+  color: rgb(223, 92, 194);
 }
 
 .tm-navbar.scroll .navbar-brand {
