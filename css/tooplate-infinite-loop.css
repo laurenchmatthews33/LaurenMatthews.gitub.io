@@ -148,8 +148,11 @@ blockquote {
 	background-color: #FED0BB;
   background-image: url(../img/NewYear.png);
   background-repeat: no-repeat;
-  /*height: 100vh;*/
-  height: 980px;
+  background-position: center;
+  padding-bottom: 50px;
+  padding-top: 100px;
+  height: 100vh;
+  min-height: 200px;
   position: relative;
 }
 
@@ -515,7 +518,7 @@ figure.effect-honey:hover h2 i {
   color: white;
   background-color: #001828;
   background-image: url(../img/AndNowWeWait.png);
-  opacity: 0.50;
+  opacity: 0.50%;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 980px;
