@@ -148,8 +148,8 @@ blockquote {
 	background-color: #FED0BB;
   background-image: url(../img/NewYear.png);
   background-repeat: no-repeat;
-  height: 100vh;
-  min-height: 200px;
+  /*height: 100vh;*/
+  min-height: 980px;
   position: relative;
 }
 
