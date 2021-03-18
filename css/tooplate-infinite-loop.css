@@ -149,7 +149,7 @@ blockquote {
   background-image: url(../img/NewYear.png);
   background-repeat: no-repeat;
   /*height: 100vh;*/
-  min-height: 980px;
+  height: 980px;
   position: relative;
 }
 
