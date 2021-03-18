@@ -120,7 +120,7 @@ blockquote {
 .tm-navbar.scroll .tm-nav-link.current,
 .tm-nav-link:hover {
   color: #FFF;
-  background-color: #369;
+  background-color: rgb(223, 92, 194);
 }
 
 .navbar-toggler {
