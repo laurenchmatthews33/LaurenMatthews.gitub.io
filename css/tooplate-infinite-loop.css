@@ -55,7 +55,7 @@ blockquote {
 }
 
 .tm-text-primary {
-  color: #37A;
+  color:  rgb(223, 92, 194);
 }
 
 .tm-font-big {
@@ -64,7 +64,7 @@ blockquote {
 
 .tm-btn-primary {
   color: white;
-  background-color: #369;
+  background-color:  rgb(223, 92, 194);
   padding: 14px 30px;
 }
 
@@ -557,7 +557,7 @@ figure.effect-honey:hover h2 i {
 .tm-btn-submit {
 	font-size: 0.9em;
 	color: #fff;
-	background-color: #369;
+	background-color:  rgb(223, 92, 194);
 	width: 50%;
 	margin-bottom: 60px;
 }
@@ -596,7 +596,7 @@ figure.effect-honey:hover h2 i {
 }
 
 .tm-footer a:hover {
-	color: #9CF;
+	color:  rgb(223, 92, 194);
 }
 
 .tm-footer-link {
