@@ -18,13 +18,13 @@ body {
 }
 a {
   transition: all 0.3s ease;
-  color: #38B;
+  color: rgb(223, 92, 194);
 }
 
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #D40;
+  color: rgb(233, 177, 238);
 }
 
 a:focus {
@@ -55,7 +55,7 @@ blockquote {
 }
 
 .tm-text-primary {
-  color: #37A;
+  color:  rgb(223, 92, 194);
 }
 
 .tm-font-big {
@@ -64,14 +64,14 @@ blockquote {
 
 .tm-btn-primary {
   color: white;
-  background-color: #369;
+  background-color:  rgb(223, 92, 194);
   padding: 14px 30px;
 }
 
 .tm-btn-primary:hover,
 .tm-btn-primary:focus {
   color: white;
-  background-color: #38B;
+  background-color: rgb(223, 92, 194);
 }
 
 /* Navbar */
@@ -97,7 +97,7 @@ blockquote {
 
 .navbar-brand:hover,
 .tm-navbar.scroll .navbar-brand:hover {
-  color: #38B;
+  color: rgb(223, 92, 194);
 }
 
 .tm-navbar.scroll .navbar-brand {
@@ -120,7 +120,7 @@ blockquote {
 .tm-navbar.scroll .tm-nav-link.current,
 .tm-nav-link:hover {
   color: #FFF;
-  background-color: #369;
+  background-color: rgb(223, 92, 194);
 }
 
 .navbar-toggler {
@@ -229,7 +229,7 @@ blockquote {
 .tm-down-arrow {
   	color: #FFF;
     cursor: pointer;
-    background: #357;
+    background:rgb(223, 92, 194);
     padding: 15px 40px;
     transition: all 0.3s ease;
 }
@@ -268,7 +268,7 @@ blockquote {
 /* Testimonials */
 #testimonials {
   color: white;
-  background-image: url(../img/infinite-loop-02.jpg);
+  background-image: url(../img/AndNowWeWait.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -349,7 +349,7 @@ blockquote {
 .slick-dots li button:focus:before,
 .slick-dots li.slick-active button:before {
   opacity: 1;
-  color: #3ba0dd;
+  color: rgb(223, 92, 194);
 }
 
 .tm-testimonials-carousel .slick-dots li button:before {
@@ -374,7 +374,7 @@ blockquote {
   position: relative;
   float: left;
   overflow: hidden;
-  background: #3085a3;
+  background: rgb(223, 92, 194);
   text-align: center;
   cursor: pointer;
 }
@@ -465,7 +465,7 @@ figure.effect-honey figcaption::before {
   left: 0;
   width: 100%;
   height: 10px;
-  background: #38C;
+  background: rgb(223, 92, 194);
   content: "";
   -webkit-transform: translate3d(0, 10px, 0);
   transform: translate3d(0, 10px, 0);
@@ -514,7 +514,7 @@ figure.effect-honey:hover h2 i {
 #contact {
   color: white;
   background-color: #001828;
-  background-image: url(../img/infinite-loop-03.jpg);
+  background-image: url(../img/AndNowWeWait.png);
   background-position: center;
   background-repeat: no-repeat;
   min-height: 980px;
@@ -541,7 +541,7 @@ figure.effect-honey:hover h2 i {
 
 .item-link:hover i,
 .item-link:hover span {
-  color: #3496d8;
+  color: rgb(223, 92, 194);
 }
 
 .tm-input {
@@ -557,14 +557,14 @@ figure.effect-honey:hover h2 i {
 .tm-btn-submit {
 	font-size: 0.9em;
 	color: #fff;
-	background-color: #369;
+	background-color:  rgb(223, 92, 194);
 	width: 50%;
 	margin-bottom: 60px;
 }
 
 .tm-btn-submit:hover {
 	color: #fff;
-	background-color: #38B;
+	background-color: rgb(223, 92, 194);
 }
 
 ::placeholder {
@@ -596,7 +596,7 @@ figure.effect-honey:hover h2 i {
 }
 
 .tm-footer a:hover {
-	color: #9CF;
+	color:  rgb(223, 92, 194);
 }
 
 .tm-footer-link {
@@ -605,7 +605,7 @@ figure.effect-honey:hover h2 i {
 
 .tm-footer-link:hover,
 .tm-footer-link:focus {
-  color: #38B;
+  color: rgb(223, 92, 194);
   text-decoration: none;
 }
 
